@@ -1,0 +1,2 @@
+# livecoronagraph
+This is a graph created with data pulled from a JSON file. It uses matplotlib, datetime information, and a few other minor repositories. While the graph itself is fairly self explanatory, I will mention that on the right the total deaths from the coronavirus are graphed against the total deaths. On the left are the daily new confirmed cases graphed against the daily deaths. All information is not global, it is only from the US. 
